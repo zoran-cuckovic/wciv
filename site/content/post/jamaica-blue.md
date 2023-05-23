@@ -1,7 +1,7 @@
 ---
 title: 'Ancient China'
 date: 2017-01-04T15:04:10.000Z
-description: >- The civilisation of ancient China emerged along the Yellow River in northeastern Asia around 3,500 years ago, and it lasted for over 2,000 years...
+description: 'None'
 ---
 
 The civilisation of ancient China emerged along the Yellow River in northeastern Asia around 3,500 years ago, and it lasted for over 2,000 years until the end of the Han Dynasty in 220 CE. The civilization was marked by its rich culture, advanced technology, and impressive art.
